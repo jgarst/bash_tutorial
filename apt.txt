@@ -1,3 +1,4 @@
 man-db
+manpages-dev
 lolcat
 cowsay
